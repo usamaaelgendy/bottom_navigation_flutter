@@ -48,7 +48,7 @@ in this video tutorial we will explain how to use bottom navigation bar widget i
 
 <a href="" target="_blank"><img src="doc/4.gif" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/2.gif" width="350"></a> 
+<a href="" target="_blank"><img src="doc/2.png" width="350"></a> 
 
 <a href="" target="_blank"><img src="doc/5.gif" width="350"></a> 
 
