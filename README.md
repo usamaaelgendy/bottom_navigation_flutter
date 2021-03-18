@@ -5,12 +5,6 @@
 [![Youtube](https://img.shields.io/static/v1?label=PesaCoder&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/PesaCoder?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPesaCoder&screen_name=PesaCoder
-
-
-[youtube]: https://www.youtube.com/PesaCoder?sub_confirmation=1
-
-
 <!--  Star , fork and follow -->
 
 [![GitHub stars](https://img.shields.io/github/stars/PesaCoder/bottom_navigation_flutter.svg?style=social&label=Star)](https://github.com/PesaCoder/bottom_navigation_flutter) 
@@ -42,17 +36,12 @@ in this video tutorial we will explain how to use bottom navigation bar widget i
 
 
 ## App Preview             
-<a href="" target="_blank"><img src="doc/1.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/1.gif" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/3.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/2.png" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/4.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/3.gif" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/2.png" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/4.gif" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/5.gif" width="350"></a> 
-
-
-### 📺&ensp;Watch Video
-
-
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/5.gif" width="350"></a> 
