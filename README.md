@@ -42,12 +42,12 @@ in this video tutorial we will explain how to use bottom navigation bar widget i
 
 
 ## App Preview             
-<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="1.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/1.gif" width="350"></a> 
 
-<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="2.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/3.gif" width="350"></a> 
 
-<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="3.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/4.gif" width="350"></a> 
 
-<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="4.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/2.gif" width="350"></a> 
 
-<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="5.gif" width="350"></a> 
+<a href="https://www.youtube.com/watch?v=PvDOgOdUgkU" target="_blank"><img src="doc/5.gif" width="350"></a> 
