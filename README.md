@@ -42,17 +42,24 @@ in this video tutorial we will explain how to use bottom navigation bar widget i
 
 
 ## App Preview             
-<a href="" target="_blank"><img src="doc/1.gif" width="350"></a> 
+<a href="https://bit.ly/3c1EdUN" target="_blank"><img src="doc/1.gif" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/3.gif" width="350"></a> 
+<a href="https://bit.ly/3c1EdUN" target="_blank"><img src="doc/3.gif" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/4.gif" width="350"></a> 
+<a href="https://bit.ly/3c1EdUN" target="_blank"><img src="doc/4.gif" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/2.png" width="350"></a> 
+<a href="https://bit.ly/3c1EdUN" target="_blank"><img src="doc/2.png" width="350"></a> 
 
-<a href="" target="_blank"><img src="doc/5.gif" width="350"></a> 
+<a href="https://bit.ly/3c1EdUN" target="_blank"><img src="doc/5.gif" width="350"></a> 
+
 
 
 ### 📺&ensp;Watch Video
 
+##### [YouTube video](https://youtu.be/gFZkXYycAaw "Youtube Pesa Coder") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/PesaCoder?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
+<a href="https://youtu.be/gFZkXYycAaw&feature=player_embedded
+" target="_blank"><img src="https://youtu.be/gFZkXYycAaw/maxresdefault.jpg" 
+alt="Bottom Navigation Bar in Flutter with five different packages | بالعربي" width="480" border="10" /></a>
+
+➜&ensp;[Watch My Video](https://youtu.be/gFZkXYycAaw "Watch My Video")
 
