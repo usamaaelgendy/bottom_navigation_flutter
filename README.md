@@ -56,9 +56,9 @@ in this video tutorial we will explain how to use bottom navigation bar widget i
 
 ### 📺&ensp;Watch Video
 
-##### [YouTube video](https://youtu.be/gFZkXYycAaw "Youtube Pesa Coder") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/PesaCoder?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
+##### [YouTube video](https://youtu.be/gFZkXYycAaw "Youtube Pesa Coder") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/PesaCoder?sub_confirmation=1 "YouTube Subscribe Pesa Coder ")  
 <a href="https://youtu.be/gFZkXYycAaw&feature=player_embedded
-" target="_blank"><img src="https://youtu.be/gFZkXYycAaw/maxresdefault.jpg" 
+" target="_blank"><img src="https://i9.ytimg.com/vi/gFZkXYycAaw/mqdefault.jpg?time=1616170500000&sqp=CISc04IG&rs=AOn4CLCWJ-ZCf3mVE_zj6DRQvZfg5Npi5Q" 
 alt="Bottom Navigation Bar in Flutter with five different packages | بالعربي" width="480" border="10" /></a>
 
 ➜&ensp;[Watch My Video](https://youtu.be/gFZkXYycAaw "Watch My Video")
